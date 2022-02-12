@@ -1,5 +1,5 @@
 ## final project : AI Kitchen 
-### 嵌入式系統設計實驗 @ NYCU 2021 fall semester <br><br>
+#### 嵌入式系統設計實驗 @ NYCU 2021 fall semester <br><br>
 
 
 #### Materials
