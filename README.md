@@ -4,7 +4,7 @@
 
 #### Materials
 + web camera
-+ Jetson nano
++ Jetson nano<br><br>
 <img src="https://developer.nvidia.com/sites/default/files/akamai/embedded/images/jetsonNano/JetsonNano-DevKit_Front-Top_Right_trimmed.jpg" alt="JetsonNano" width="200"/><br><br>
 
 #### Slides
